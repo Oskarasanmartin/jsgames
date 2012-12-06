@@ -1,0 +1,19 @@
+#stage{
+	width: 1024px;
+	height: 768px;
+	margin: 0 auto;
+}
+
+.tile{
+	float: left;
+}
+
+.mixed_tile{
+	position: absolute;
+	-moz-transition-property: left, top, opacity;
+	-moz-transition-duration: 0.5s;
+	-moz-transition-timing-function:linear;
+	-webkit-transition-property: left, top, opacity;
+	-webkit-transition-duration: 0.5s;
+	-webkit-transition-timing-function:linear;
+}
