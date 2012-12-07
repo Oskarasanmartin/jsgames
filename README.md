@@ -12,4 +12,4 @@ Bror: [bror@eaaa.dk](mailto:bror@eaaa.dk)
 Per: [pbc@eaaa.dk](mailto:pbc@eaaa.dk)
 
 
-![Thank you, EAAA](http://cdn.memegenerator.net/instances/400x/31452973.jpg)
+![Thank you, EAAA](http://cdn.memegenerator.net/instances/200x/31452973.jpg)
