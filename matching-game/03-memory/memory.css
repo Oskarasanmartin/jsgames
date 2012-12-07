@@ -1,0 +1,64 @@
+#board {
+	position: relative;
+	height: 380px;
+	width: 600px;
+}
+
+#board ul {
+	position: absolute;
+	margin: 0px;
+	padding: 0px;
+}
+
+#cards {
+	width: 400px;
+}
+
+#congrats {
+	position: absolute;
+	top: 0;
+	left: 0;
+	font: 25pt helvetica, arial, sans-serif;
+}
+
+.card {
+	list-style: none;
+	position: absolute;
+	height: 80px;
+	width: 80px;
+	background: black;
+	color: black;
+	font: 25px helvetica, arial, sans-serif;
+	line-height: 80px;
+	vertical-align: middle;
+	text-align: center;
+	border-radius: 10px;
+	cursor: default;
+}
+
+#cards .card.selected, #cards .card:active, #matchedCards .card {
+	color: white;
+}
+
+#matchedCards .card {
+	-webkit-transition: all 1s;
+	-moz-transition: all 1s;
+	-ms-transition: all 1s;
+	-o-transition: all 1s;
+	transition: all 1s;
+}
+
+#matchedCards .card.removed {
+	left: 400px ! important;
+	top: 0px ! important;
+	background: #777;
+}
+
+.no-select {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
