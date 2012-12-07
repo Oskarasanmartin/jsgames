@@ -1,9 +1,7 @@
-jsgames
+JavaScript Game Development Concepts
 =======
 
-JavaScript Game Development concepts
-
-Examples of awesome js games, freely made available for inspiration by those nice interaction teachers at EAAA.
+Examples of awesome js games, freely made available for inspiration and copying, by those nice interaction teachers at EAAA.
 
 Niels: [niha@eaaa.dk](mailto:niha@eaaa.dk)
 
